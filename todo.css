@@ -1,0 +1,58 @@
+body
+{
+    background: url(scorpio.png);
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+div
+{
+    color: #938382;
+    margin: 20px auto;
+    font-size: 25px;
+    border: 2px solid #938382;
+    /* height: 500px; */
+    width: 900px;
+    text-align: center;
+    padding: 10px;
+    background: #050b21;
+}
+table,td,th
+{
+    border: 2px solid rgba(194, 192, 192, 0.96);
+    border-collapse: collapse;
+    text-align: center;
+    padding: 10px 90px 10px 90px;
+    margin: 30px auto;
+    width: 70%;
+}
+th
+{
+    background: gray;
+    color: white;
+}
+tr:nth-child(even)
+{
+    background: #938382;
+    color: #050b21;
+}
+
+i
+{
+    font-size: x-large;
+    width: 50px;
+    color: rgb(192, 202, 198);
+}
+i:hover
+{
+    color:red;
+}
+/*#td3
+{
+    padding: 0px !important;
+    background: #757162;
+}*/
+a
+{
+    padding: 10px 60px 11px 20px;
+}
